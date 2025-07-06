@@ -13,7 +13,7 @@ char packetBuffer[255];
 unsigned int localPort = 9999;
 IPAddress remoteIP(192, 168, 10, 1);
 const char *ssid = "TELLO-FDB073";
-const char *password = "shreyasd";
+const char *password = "";
 
 
 //global variables
